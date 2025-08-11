@@ -8,10 +8,12 @@
 
 I'm an IT enthuaist , diving into the world of web development and system design. I enjoy learning new technologies and building projects that solve real-world problems.
 
+
+
+
 📚 About Me
 
-
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 Current Role: IT Student at ICP
@@ -42,7 +44,11 @@ Database: PostgreSQL
 
 Tools: Git, Figma, draw.io
 
+
+
 🌱 What I'm Learning
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -58,13 +64,18 @@ Creating user-friendly designs with Figma
 
 Mastering version control with Git
 
+
+
+
+
 📫 Connect with Me
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
 
-[LinkedIn](https://www.linkedin.com/in/ayush-gurung-64ab56375)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-brightgreen)](https://www.linkedin.com/in/ayush-gurung-64ab56375) 
 
 
-Thanks for visiting my profile! Check out my repositories to see my projects. 😊
+                                                                          Thanks for visiting my profile! Check out my repositories to see my projects. 😊
