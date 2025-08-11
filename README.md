@@ -1,7 +1,7 @@
-## Hi I'm Ayush Gurung 👋 
+                                                                            ## Hi I'm Ayush Gurung 👋 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Profile Views](https://komarev.com/ghpvc/?username=gingrg&color=blue) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-brightgreen)](https://www.linkedin.com/in/ayush-gurung-64ab56375) 
+                                                                ![Profile Views](https://komarev.com/ghpvc/?username=gingrg&color=blue) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-brightgreen)]                                                                                         (https://www.linkedin.com/in/ayush-gurung-64ab56375) 
 
 
 
