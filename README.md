@@ -1,9 +1,9 @@
 <div align = "center"> <h1> Hi I'm Ayush Gurung 👋 </h1></div>
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=gingrg&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=gingrg&color=blue) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-brightgreen)](https://www.linkedin.com/in/ayush-gurung-64ab56375)
 
-I'm an IT enthuaist , diving into the world of web development and system design. I enjoy learning new technologies and building projects that solve real-world problems.
+<br>I'm an IT enthuaist , diving into the world of web development and system design. I enjoy learning new technologies and building projects that solve real-world problems.
 
 <br>
 <div>
@@ -75,6 +75,5 @@ Mastering version control with Git
 
 
 
-<div align = "center"> [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-brightgreen)](https://www.linkedin.com/in/ayush-gurung-64ab56375) </div>
-</div>
-<div align = "center">  Thanks for visiting my profile! 😊 </div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-brightgreen)](https://www.linkedin.com/in/ayush-gurung-64ab56375)
+<br><div align = "center">  Thanks for visiting my profile! 😊 </div>
