@@ -1,6 +1,7 @@
 <div align = "center"> <h1> Hi I'm Ayush Gurung 👋 </h1></div>
 <br>
-<div align = "center">![Profile Views](https://komarev.com/ghpvc/?username=gingrg&color=blue) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-brightgreen)](https://www.linkedin.com/in/ayush-gurung-64ab56375) </div>
+<div align = "center">![Profile Views](https://komarev.com/ghpvc/?username=gingrg&color=blue) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-brightgreen)](https://www.linkedin.com/in/ayush-gurung-64ab56375) </div>
 
 
 <br>
