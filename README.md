@@ -8,15 +8,11 @@
 
 </div>
 
-<br>I'm an IT enthuaist , diving into the world of web development and system design. I enjoy learning new technologies and building projects that solve real-world problems.
-
-<br>
-<div>
 <br>
  
 ## 📚 About Me
 
-
+I'm an IT enthuaist , diving into the world of web development and system design. I enjoy learning new technologies and building projects that solve real-world problems.
 
 
 Current Role: IT Student at ICP
@@ -28,8 +24,6 @@ Focus: Developing skills in full-stack web development and database management
 
 
 Tech Stack:
-
-
 
 
 
