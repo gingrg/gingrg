@@ -3,7 +3,7 @@
 
 <div align = "center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=gingrg&color=blue) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-brightgreen)](https://www.linkedin.com/in/ayush-gurung-64ab56375)
+[![Profile Views](https://img.shields.io/badge/PROFILE%20VIEWS-2,219-0078D7?style=for-the-badge&labelColor=444444&logoColor=ffffff&font=monospace&logoWidth=0)](https://komarev.com/ghpvc/?username=gingrg) [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0078D7?style=for-the-badge&logo=linkedin&logoColor=ffffff&font=monospace)](https://www.linkedin.com/in/ayush-gurung-64ab56375)
 
 
 </div>
