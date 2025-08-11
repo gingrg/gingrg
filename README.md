@@ -1,16 +1,70 @@
-## Hi there 👋
+## Hi I'm Ayush Gurung 👋 
 
-<!--
-**gingrg/gingrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=gingrg&color=blue) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-brightgreen)](https://www.linkedin.com/in/ayush-gurung-64ab56375) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+I'm an IT enthuaist , diving into the world of web development and system design. I enjoy learning new technologies and building projects that solve real-world problems.
+
+📚 About Me
+
+
+
+
+
+Current Role: IT Student at ICP
+
+
+
+Focus: Developing skills in full-stack web development and database management
+
+
+
+Tech Stack:
+
+
+
+
+
+Frontend: HTML, CSS
+
+
+
+Backend: Python (Django)
+
+
+
+Database: PostgreSQL
+
+
+
+Tools: Git, Figma, draw.io
+
+🌱 What I'm Learning
+
+
+
+
+
+Building scalable web applications with Django
+
+
+
+Creating user-friendly designs with Figma
+
+
+
+Mastering version control with Git
+
+📫 Connect with Me
+
+
+
+
+
+[LinkedIn](https://www.linkedin.com/in/ayush-gurung-64ab56375)
+
+
+Thanks for visiting my profile! Check out my repositories to see my projects. 😊
