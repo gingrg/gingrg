@@ -1,7 +1,6 @@
 <div align = "center"> <h1> Hi I'm Ayush Gurung 👋 </h1></div>
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Profile Views](https://komarev.com/ghpvc/?username=gingrg&color=blue) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-brightgreen)](https://www.linkedin.com/in/ayush-gurung-64ab56375)                                                             
+<div align = "center">![Profile Views](https://komarev.com/ghpvc/?username=gingrg&color=blue) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-brightgreen)](https://www.linkedin.com/in/ayush-gurung-64ab56375) </div>                                                       
 
 
 
@@ -9,11 +8,11 @@
 I'm an IT enthuaist , diving into the world of web development and system design. I enjoy learning new technologies and building projects that solve real-world problems.
 
 
-
+<div>
 
 ## 📚 About Me
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 Current Role: IT Student at ICP
@@ -48,7 +47,7 @@ Tools: Git, Figma, draw.io
 
  ## 🌱 What I'm Learning
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
@@ -70,12 +69,11 @@ Mastering version control with Git
 
 ## 📫 Connect with Me
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-brightgreen)](https://www.linkedin.com/in/ayush-gurung-64ab56375) 
 
-
-                                                                          Thanks for visiting my profile! Check out my repositories to see my projects. 😊
+<div align = "center"> [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-brightgreen)](https://www.linkedin.com/in/ayush-gurung-64ab56375) </div>
+</div>
+<div align = "center">  Thanks for visiting my profile! 😊 </div>
