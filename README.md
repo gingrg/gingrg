@@ -1,6 +1,7 @@
 <div align = "center"> <h1> Hi I'm Ayush Gurung 👋 </h1></div>
 <br>
-![Profile Views](https://komarev.com/ghpvc/?username=ayushgrg0&color=blue)
+
+![Profile Views](https://komarev.com/ghpvc/?username=gingrg&color=blue)
 
 I'm an IT enthuaist , diving into the world of web development and system design. I enjoy learning new technologies and building projects that solve real-world problems.
 
