@@ -20,10 +20,10 @@ I’m a backend-focused developer in the making, with a growing expertise in Dja
 
 ## ✨ Fun Facts About Me
 
-🏔️ Born and raised in Pokhara, Nepal — a place where lakes and mountains inspire big ideas.
-🎮 My downtime often involves sports, photography, gaming, or traveling to see new perspectives.
-🧩 I’m easy to work with — whether it’s collaborating on a tough problem or learning something new, I keep things simple and open.
-💡 Known for being approachable and a good communicator — I can dive into serious problem-solving without losing a friendly vibe.
+U+2022 🏔️ Born and raised in Pokhara, Nepal — a place where lakes and mountains inspire big ideas. <br>
+U+2022 🎮 My downtime often involves sports, photography, gaming, or traveling to see new perspectives. <br>
+U+2022 🧩 I’m easy to work with — whether it’s collaborating on a tough problem or learning something new, I keep things simple and open. <br>
+U+2022 💡 Known for being approachable and a good communicator — I can dive into serious problem-solving without losing a friendly vibe. <br>
 
 
 <br>
