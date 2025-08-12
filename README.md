@@ -36,15 +36,15 @@ I’m a backend-focused developer in the making, with a growing expertise in Dja
 
 
 
-Building scalable web applications with Django
+• Building scalable web applications with Django
 
 
 
-Creating user-friendly designs with Figma
+• Creating user-friendly designs with Figma
 
 
 
-Mastering version control with Git
+• Mastering version control with Git
 
 
 
