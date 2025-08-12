@@ -12,36 +12,18 @@
 
 <br>
  
-## 📚 About Me
+## 👨‍💻 About Me
 
-I'm an IT enthuaist , diving into the world of web development and system design. I enjoy learning new technologies and building projects that solve real-world problems.
+I’m a backend-focused developer in the making, with a growing expertise in Django and a curiosity for how technology can make everyday life easier. I enjoy building systems that address real-world challenges and deliver practical solutions. As a student, I’m constantly experimenting, learning, and refining my craft to create backend architectures that are both reliable and scalable.
 
+<br>
 
-Current Role: IT Student at ICP
+## ✨ Fun Facts About Me
 
-
-
-Focus: Developing skills in full-stack web development and database management
-
-
-
-Tech Stack:
-
-
-
-Frontend: HTML, CSS
-
-
-
-Backend: Python (Django)
-
-
-
-Database: PostgreSQL
-
-
-
-Tools: Git, Figma, draw.io
+🏔️ Born and raised in Pokhara, Nepal — a place where lakes and mountains inspire big ideas.
+🎮 My downtime often involves sports, photography, gaming, or traveling to see new perspectives.
+🧩 I’m easy to work with — whether it’s collaborating on a tough problem or learning something new, I keep things simple and open.
+💡 Known for being approachable and a good communicator — I can dive into serious problem-solving without losing a friendly vibe.
 
 
 <br>
