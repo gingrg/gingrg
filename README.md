@@ -49,28 +49,28 @@ I’m a backend-focused developer in the making, with a growing expertise in Dja
 
 Installation  
 
-**Clone the repository**  
+**1. Clone the repository**  
 https://github.com/aanishKumal06/django-job.git  
 cd django-job.git  
 
-**Create and activate virtual environment**  
+**2. Create and activate virtual environment**  
 
-# 1. Create virtual environment  
+#Create virtual environment  
 uv venv  
 
-# 2. Activate on Windows  
+#Activate on Windows  
 .\venv\Scripts\activate  
 
-# 3. Activate on Linux/Mac  
+#Activate on Linux/Mac  
 source venv/bin/activate  
 
-# 4. Install dependencies**  
+**3.Install dependencies**  
 uv sync  
 
-# 5. Setup database**  
+#Setup database 
 python manage.py migrate  
 
-**Start development server**  
+**4. Start development server**  
 python manage.py runserver  
 
 
