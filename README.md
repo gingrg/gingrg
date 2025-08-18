@@ -61,12 +61,13 @@ A web application for built on Django for recruiters to recruite and job seekers
 Installation  
 
 **1. Clone the repository**  
-\`\`\`bash
+```bash
 git clone https://github.com/ayushgrg0/django-job
 cd django-job.git  
-\`\`\`
+```
+
 **2. Create and activate virtual environment**  
-\`\`\`bash
+```bash
 #Create virtual environment  
 
 uv venv  
@@ -78,22 +79,22 @@ uv venv
 #Activate on Linux/Mac  
 
 source venv/bin/activate  
-\`\`\` 
+``` 
 
 **3.Install dependencies**  
 
-\`\`\`bash
+```bash
 uv sync  
 
 #Setup database 
 
 python manage.py migrate  
-\`\`\` 
+``` 
 
 **4. Start development server**  
-\`\`\`bash
+```bash
 python manage.py runserver  
-\`\`\` 
+``` 
 
 
 • Mastering version control with Git
