@@ -45,6 +45,17 @@ I’m a backend-focused developer in the making, with a growing expertise in Dja
 
 
 
+## Job - Ghar
+A web application for built on Django for recruiters to recruite and job seekers to view jobs
+
+## Features
+* User authentication 
+* Job apllications posting for recruiters
+* Job browsing for job seekers
+
+
+
+
 ## 🛠️ Setup
 
 Installation  
@@ -79,7 +90,6 @@ python manage.py migrate
 **4. Start development server**  
 
 python manage.py runserver  
-
 
 
 
