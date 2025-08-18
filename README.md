@@ -45,30 +45,34 @@ I’m a backend-focused developer in the making, with a growing expertise in Dja
 
 
 
-
-
 ## 🛠️ Setup
 
-Installation
-Clone the repository
-https://github.com/aanishKumal06/django-job.git
-cd django-job.git
-Create and activate virtual environment
+Installation  
 
-# Create virtual environment
-uv venv
+**Clone the repository**  
+https://github.com/aanishKumal06/django-job.git  
+cd django-job.git  
 
-# Activate on Windows
-.\venv\Scripts\activate
+**Create and activate virtual environment**  
 
-# Activate on Linux/Mac
-source venv/bin/activate
-Install dependencies
-uv sync
-Setup database
-python manage.py migrate
-Start development server
-python manage.py runserver
+# 1. Create virtual environment  
+uv venv  
+
+# 2. Activate on Windows  
+.\venv\Scripts\activate  
+
+# 3. Activate on Linux/Mac  
+source venv/bin/activate  
+
+# 4. Install dependencies**  
+uv sync  
+
+# 5. Setup database**  
+python manage.py migrate  
+
+**Start development server**  
+python manage.py runserver  
+
 
 
 
