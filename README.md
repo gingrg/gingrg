@@ -146,7 +146,7 @@ source venv/bin/activate
 
 ```bash
 uv sync  
-
+```
 
 ## Swift Products
 
@@ -210,3 +210,4 @@ python manage.py migrate
 ```bash
 python manage.py runserver  
 ``` 
+
