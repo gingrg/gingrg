@@ -67,7 +67,7 @@ https://github.com/aanishKumal06/django-job.git
 cd django-job.git  
 
 **2. Create and activate virtual environment**  
-
+```bash
 #Create virtual environment  
 
 uv venv  
