@@ -211,3 +211,15 @@ python manage.py migrate
 python manage.py runserver  
 ``` 
 
+## Wordible
+
+Ever wondered how many words, sentences, or characters are hiding in your text? 
+Meet **Wordible** — a lightweight and super fast tool that breaks down any text you throw at it. Beyond simple counts, it also tells you which words appear most often, helping you get insights at a glance. Built with Django, it’s clean, modular, and easy to use.
+
+## 🚀 Features
+
+* Quickly count words, characters, and sentences  
+* See which words show up the most with frequency rankings  
+* User-friendly interface that makes text analysis effortless  
+* Fast and responsive, even with large chunks of text  
+
