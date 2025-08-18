@@ -44,6 +44,34 @@ I’m a backend-focused developer in the making, with a growing expertise in Dja
 
 
 
+
+
+
+## 🛠️ Setup
+
+Installation
+Clone the repository
+https://github.com/aanishKumal06/django-job.git
+cd django-job.git
+Create and activate virtual environment
+
+# Create virtual environment
+uv venv
+
+# Activate on Windows
+.\venv\Scripts\activate
+
+# Activate on Linux/Mac
+source venv/bin/activate
+Install dependencies
+uv sync
+Setup database
+python manage.py migrate
+Start development server
+python manage.py runserver
+
+
+
 • Mastering version control with Git
 
 
