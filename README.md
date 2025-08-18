@@ -105,3 +105,54 @@ python manage.py runserver
 <br>
 
 <div align = "center">  Thanks for visiting my profile! 😊 </div>
+
+
+
+## Blog with AI search integrated
+A blog platform with **AI-powered semantic search** to help readers instantly find the most relevant content.
+
+## Features
+* AI Search
+* Pagination
+* Search with tags
+
+
+## 🛠️ Setup
+
+Installation  
+
+**1. Clone the repository**  
+```bash
+https://github.com/ayushgrg0/django-ai-search
+cd django-ai-search
+```
+
+**2. Create and activate virtual environment**  
+```bash
+#Create virtual environment  
+
+uv venv  
+
+#Activate on Windows  
+
+.\venv\Scripts\activate  
+
+#Activate on Linux/Mac  
+
+source venv/bin/activate  
+``` 
+
+**3.Install dependencies**  
+
+```bash
+uv sync  
+
+#Setup database 
+
+python manage.py migrate  
+``` 
+
+**4. Start development server**  
+```bash
+python manage.py runserver  
+``` 
