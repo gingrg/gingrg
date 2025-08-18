@@ -147,6 +147,60 @@ source venv/bin/activate
 ```bash
 uv sync  
 
+
+## Swift Products
+
+A simple web application to manage and showcase products.
+
+## Features
+
+* Add new products with name, description, and price  
+* Edit existing product details easily  
+* Delete products with one click  
+* User authentication with Sign In / Sign Up functionality  
+
+
+
+## 🛠️ Setup
+
+Installation  
+
+**1. Clone the repository**  
+```bash
+https://github.com/ayushgrg0/django-ai-search
+cd django-ai-search
+```
+
+**2. Create and activate virtual environment**  
+```bash
+#Create virtual environment  
+
+uv venv  
+
+#Activate on Windows  
+
+.\venv\Scripts\activate  
+
+#Activate on Linux/Mac  
+
+source venv/bin/activate  
+``` 
+
+**3.Install dependencies**  
+
+```bash
+uv sync  
+
+#Setup database 
+
+python manage.py migrate  
+``` 
+
+**4. Start development server**  
+```bash
+python manage.py runserver  
+``` 
+
 #Setup database 
 
 python manage.py migrate  
