@@ -43,78 +43,23 @@ I’m a backend-focused developer in the making, with a growing expertise in Dja
 • Creating user-friendly designs with Figma
 
 
-
-
-## Job - Ghar
-A web application for built on Django for recruiters to recruite and job seekers to view jobs
-
-## Features
-* User authentication 
-* Job apllications posting for recruiters
-* Job browsing for job seekers
-
-
-
-
-## 🛠️ Setup
-
-Installation  
-
-**1. Clone the repository**  
-```bash
-git clone https://github.com/ayushgrg0/django-job
-cd django-job.git  
-```
-
-**2. Create and activate virtual environment**  
-```bash
-#Create virtual environment  
-
-uv venv  
-
-#Activate on Windows  
-
-.\venv\Scripts\activate  
-
-#Activate on Linux/Mac  
-
-source venv/bin/activate  
-``` 
-
-**3.Install dependencies**  
-
-```bash
-uv sync  
-
-#Setup database 
-
-python manage.py migrate  
-``` 
-
-**4. Start development server**  
-```bash
-python manage.py runserver  
-``` 
-
-
-• Mastering version control with Git
-
-
-
-
-<br>
-
 <div align = "center">  Thanks for visiting my profile! 😊 </div>
 
 
 
-## Blog with AI search integrated
-A blog platform with **AI-powered semantic search** to help readers instantly find the most relevant content.
+
+## Django Expense Tracker
+
+
+A web-based personal finance management system built with Django for tracking daily expenses and managing budgets.
 
 ## Features
-* AI Search
-* Pagination
-* Search with tags
+
+* User Authentication
+* Expense Management
+* Budget Control
+* Dashboard Analytics  
+
 
 
 ## 🛠️ Setup
@@ -123,8 +68,8 @@ Installation
 
 **1. Clone the repository**  
 ```bash
-https://github.com/ayushgrg0/django-ai-search
-cd django-ai-search
+https://github.com/ayushgrg0/django-expense-tracker
+cd django-expense-tracker
 ```
 
 **2. Create and activate virtual environment**  
@@ -145,80 +90,22 @@ source venv/bin/activate
 **3.Install dependencies**  
 
 ```bash
+
+
 uv sync  
 ```
 
-## Swift Products
-
-A simple web application to manage and showcase products.
-
-## Features
-
-* Add new products with name, description, and price  
-* Edit existing product details easily  
-* Delete products with one click  
-* User authentication with Sign In / Sign Up functionality  
-
-
-
-## 🛠️ Setup
-
-Installation  
-
-**1. Clone the repository**  
-```bash
-https://github.com/ayushgrg0/django-ai-search
-cd django-ai-search
-```
-
-**2. Create and activate virtual environment**  
-```bash
-#Create virtual environment  
-
-uv venv  
-
-#Activate on Windows  
-
-.\venv\Scripts\activate  
-
-#Activate on Linux/Mac  
-
-source venv/bin/activate  
-``` 
-
-**3.Install dependencies**  
+**4.Setup Database**  
 
 ```bash
-uv sync  
-
 #Setup database 
 
 python manage.py migrate  
 ``` 
 
-**4. Start development server**  
+**5. Start development server**  
 ```bash
 python manage.py runserver  
 ``` 
 
-#Setup database 
-
-python manage.py migrate  
-``` 
-
-**4. Start development server**  
-```bash
-python manage.py runserver  
-``` 
-
-## Wordible
-
- **Wordible**: a super fast tool built with Django that breaks down any text you give. It's simplifies count, it also tells you which words appear most often, helping you get insights at a glance. 
-
-## 🚀 Features
-
-* Quickly count words, characters, and sentences  
-* See which words show up the most with frequency rankings  
-* User-friendly interface that makes text analysis effortless  
-* Fast and responsive, even with large chunks of text  
 
